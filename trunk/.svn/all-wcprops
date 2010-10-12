@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/packages/!svn/ver/55/iVulnerable/trunk
+END
+MBProgressHUD.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/packages/!svn/ver/55/iVulnerable/trunk/MBProgressHUD.m
+END
+parseXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/packages/!svn/ver/55/iVulnerable/trunk/parseXML.h
+END
+refresh.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/packages/!svn/ver/55/iVulnerable/trunk/refresh.png
+END
+CVEReference.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/packages/!svn/ver/55/iVulnerable/trunk/CVEReference.h
+END
+CVE.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/packages/!svn/ver/55/iVulnerable/trunk/CVE.h
+END
+parseXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/packages/!svn/ver/55/iVulnerable/trunk/parseXML.m
+END
+CVEReference.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/packages/!svn/ver/55/iVulnerable/trunk/CVEReference.m
+END
+CVE.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/packages/!svn/ver/55/iVulnerable/trunk/CVE.m
+END
+MBProgressHUD.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/packages/!svn/ver/55/iVulnerable/trunk/MBProgressHUD.h
+END
+iVulnerable-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/packages/!svn/ver/55/iVulnerable/trunk/iVulnerable-Info.plist
+END
+iVulnerable_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/packages/!svn/ver/55/iVulnerable/trunk/iVulnerable_Prefix.pch
+END

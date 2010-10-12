@@ -1,0 +1,1653 @@
+TiVulnerable
+v7
+r0
+t306981597.320076
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C8837260000000000000110
+t1283995430
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C5E1EEF00000000000000CD
+t1281236719
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E1EFD0000000000091C50
+t1281236733
+s597072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/iAd.framework/Headers/ADBannerView.h
+c000000004C6C305C0000000000001484
+t1282158684
+s5252
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004C6C30600000000000057F80
+t1282158688
+s360320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2/libxml/xmlreader.h
+c000000004C5A4D3F0000000000003107
+t1280986431
+s12551
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/zlib.h
+c000000004C5A494E00000000000102A5
+t1280985422
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libz.dylib
+c000000004C5A495000000000000123E0
+t1280985424
+s74720
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVE.h
+c000000004C9A3FEF000000000000028A
+t1285177327
+s650
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVE.m
+c000000004C9A3FEF0000000000000189
+t1285177327
+s393
+i"CVE.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVEReference.h
+c000000004C9A3FEF0000000000000199
+t1285177327
+s409
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVEReference.m
+c000000004C9A3FEF0000000000000100
+t1285177327
+s256
+i"CVEReference.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/MBProgressHUD.h
+c000000004C9A3FEF0000000000002DCD
+t1285177327
+s11725
+i<UIKit/UIKit.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/MBProgressHUD.m
+c000000004C9A3FEF0000000000004EB3
+t1285177327
+s20147
+i"MBProgressHUD.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Shared/main.m
+c000000004C9A3FEF0000000000000166
+t1285177327
+s358
+i<UIKit/UIKit.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/NSDataAdditions.h
+c000000004C9A3FEF0000000000000A67
+t1285177327
+s2663
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/NSDataAdditions.m
+c000000004C9A3FEF00000000000025EE
+t1285177327
+s9710
+i"NSDataAdditions.h"
+i<zlib.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.h
+c000000004C9A3FEF00000000000012D1
+t1285177327
+s4817
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m
+c000000004C9A3FEF0000000000004715
+t1285177327
+s18197
+i"TBXML.h"
+i"NSDataAdditions.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/NSMutableURLRequest+Parameters.h
+c000000004C9A3FEF00000000000005AB
+t1285177327
+s1451
+i<Foundation/Foundation.h>
+i"OARequestParameter.h"
+i"NSURL+Base.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/NSString+URLEncoding.h
+c000000004C9A3FEF000000000000055D
+t1285177327
+s1373
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/NSURL+Base.h
+c000000004C9A3FEF0000000000000540
+t1285177327
+s1344
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAConsumer.h
+c000000004C9A3FEF00000000000005CF
+t1285177327
+s1487
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OADataFetcher.h
+c000000004C9A3FEF00000000000006D6
+t1285177327
+s1750
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+i"OAServiceTicket.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAHMAC_SHA1SignatureProvider.h
+c000000004C9A3FEF0000000000000573
+t1285177327
+s1395
+i<Foundation/Foundation.h>
+i"OASignatureProviding.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAMutableURLRequest.h
+c000000004C9A3FEF00000000000008EF
+t1285177327
+s2287
+i<Foundation/Foundation.h>
+i"OAConsumer.h"
+i"OAToken.h"
+i"OAHMAC_SHA1SignatureProvider.h"
+i"OASignatureProviding.h"
+i"NSMutableURLRequest+Parameters.h"
+i"NSURL+Base.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OARequestParameter.h
+c000000004C9A3FEF00000000000006B5
+t1285177327
+s1717
+i<Foundation/Foundation.h>
+i"NSString+URLEncoding.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAServiceTicket.h
+c000000004C9A3FEF0000000000000695
+t1285177327
+s1685
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OASignatureProviding.h
+c000000004C9A3FEF000000000000057A
+t1285177327
+s1402
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAToken.h
+c000000004C9A3FEF0000000000000753
+t1285177327
+s1875
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.h
+c000000004C9A3FEF0000000000002139
+t1285177327
+s8505
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterEngineDelegate.h"
+i"MGTwitterParserDelegate.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m
+c000000004C9A3FEF000000000000D21D
+t1285177327
+s53789
+i"MGTwitterEngine.h"
+i"MGTwitterHTTPURLConnection.h"
+i"NSData+Base64.h"
+i"MGTwitterStatusesYAJLParser.h"
+i"MGTwitterMessagesYAJLParser.h"
+i"MGTwitterUsersYAJLParser.h"
+i"MGTwitterMiscYAJLParser.h"
+i"MGTwitterSearchYAJLParser.h"
+i"MGTwitterStatusesLibXMLParser.h"
+i"MGTwitterMessagesLibXMLParser.h"
+i"MGTwitterUsersLibXMLParser.h"
+i"MGTwitterMiscLibXMLParser.h"
+i"MGTwitterStatusesParser.h"
+i"MGTwitterUsersParser.h"
+i"MGTwitterMessagesParser.h"
+i"MGTwitterMiscParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterEngineDelegate.h
+c000000004C9A3FEF00000000000008CF
+t1285177327
+s2255
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterEngineGlobalHeader.h
+c000000004C9A3FEF00000000000007EC
+t1285177327
+s2028
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.h
+c000000004C9A3FEF0000000000000485
+t1285177327
+s1157
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterRequestTypes.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m
+c000000004C9A3FEF000000000000065A
+t1285177327
+s1626
+i"MGTwitterHTTPURLConnection.h"
+i"NSString+UUID.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.h
+c000000004C9A3FEF0000000000000600
+t1285177327
+s1536
+i"MGTwitterEngineGlobalHeader.h"
+i<libxml/xmlreader.h>
+i"MGTwitterParserDelegate.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m
+c000000004C9A3FEF0000000000002684
+t1285177327
+s9860
+i"MGTwitterLibXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.h
+c000000004C9A3FEF000000000000012A
+t1285177327
+s298
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m
+c000000004C9A3FEF0000000000000CD2
+t1285177327
+s3282
+i"MGTwitterMessagesLibXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.h
+c000000004C9A3FEF0000000000000122
+t1285177327
+s290
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m
+c000000004C9A3FEF000000000000076B
+t1285177327
+s1899
+i"MGTwitterMessagesParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.h
+c000000004C9A3FEF0000000000000122
+t1285177327
+s290
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m
+c000000004C9A3FEF0000000000000527
+t1285177327
+s1319
+i"MGTwitterMiscLibXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.h
+c000000004C9A3FEF0000000000000130
+t1285177327
+s304
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m
+c000000004C9A3FEF000000000000056A
+t1285177327
+s1386
+i"MGTwitterMiscParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterParserDelegate.h
+c000000004C9A3FEF0000000000000330
+t1285177327
+s816
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterRequestTypes.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterRequestTypes.h
+c000000004C9A3FEF000000000000105F
+t1285177327
+s4191
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.h
+c000000004C9A3FEF000000000000012A
+t1285177327
+s298
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m
+c000000004C9A3FEF00000000000003A3
+t1285177327
+s931
+i"MGTwitterStatusesLibXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.h
+c000000004C9A3FEF0000000000000118
+t1285177327
+s280
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m
+c000000004C9A3FEF000000000000084B
+t1285177327
+s2123
+i"MGTwitterStatusesParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.h
+c000000004C9A3FEF0000000000000124
+t1285177327
+s292
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m
+c000000004C9A3FEF0000000000000392
+t1285177327
+s914
+i"MGTwitterUsersLibXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.h
+c000000004C9A3FEF000000000000011C
+t1285177327
+s284
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m
+c000000004C9A3FEF00000000000006F2
+t1285177327
+s1778
+i"MGTwitterUsersParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.h
+c000000004C9A3FEF0000000000000459
+t1285177327
+s1113
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterParserDelegate.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m
+c000000004C9A3FEF000000000000131F
+t1285177327
+s4895
+i"MGTwitterXMLParser.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSData+Base64.h
+c000000004C9A3FEF0000000000000602
+t1285177327
+s1538
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m
+c000000004C9A3FEF0000000000000F65
+t1285177327
+s3941
+i"NSData+Base64.h"
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSString+UUID.h
+c000000004C9A3FEF00000000000000ED
+t1285177327
+s237
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m
+c000000004C9A3FEF00000000000001E3
+t1285177327
+s483
+i"NSString+UUID.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.h
+c000000004C9A3FEF000000000000077A
+t1285177327
+s1914
+i<UIKit/UIKit.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m
+c000000004C9A3FEF00000000000036B0
+t1285177327
+s14000
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"SA_OAuthTwitterEngine.h"
+i"SA_OAuthTwitterController.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.h
+c000000004C9A3FEF000000000000073C
+t1285177327
+s1852
+i"MGTwitterEngine.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m
+c000000004C9A3FEF00000000000039BA
+t1285177327
+s14778
+i"MGTwitterHTTPURLConnection.h"
+i"OAConsumer.h"
+i"OAMutableURLRequest.h"
+i"OADataFetcher.h"
+i"SA_OAuthTwitterEngine.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/libOAuth.a
+c000000004C8E6CC9000000000008DF6C
+t1284402377
+s581484
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app.dSYM
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/CVEDetailsViewController.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/CVEDetailsViewControllerIpad.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/Info.plist
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/MainWindow_iPad.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/MainWindow_iPhone.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/PkgInfo
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/descriptionTableCell.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/exportCVEViewController-ipad.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/exportCVEViewController.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/iVulnerable
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/refresh.png
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchResultsCell.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchResultsCellIpad.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchResultsViewController.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchTableFooter.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchViewControlleriPhone.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/tweetCVEViewController.nib
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/AppDelegate_iPad.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/AppDelegate_iPhone.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVE.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEDetailsViewController.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEDetailsViewControllerIpad.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEReference.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MBProgressHUD.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitCornersView.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitDividerView.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitViewController.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterEngine.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterLibXMLParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMessagesParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMiscParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterStatusesParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterUsersParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterXMLParser.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSData+Base64.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSDataAdditions.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSString+UUID.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/SA_OAuthTwitterController.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/SA_OAuthTwitterEngine.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/TBXML.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/exportCVEViewController.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/iVulnerable.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/parseXML.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/searchResultsViewController.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/searchViewControlleriPhone.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/tweetCVEViewController.o
+t2
+s0
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/AppDelegate_iPad.h
+c000000004C9A9C3B0000000000000348
+t1285200955
+s840
+i<UIKit/UIKit.h>
+i"searchResultsViewController.h"
+i"MGSplitViewController.h"
+i"searchResultsViewController.h"
+i"CVEDetailsViewControllerIpad.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/AppDelegate_iPad.m
+c000000004C9A9D110000000000000C34
+t1285201169
+s3124
+i"AppDelegate_iPad.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.h
+c000000004C9BB67E000000000000045C
+t1285273214
+s1116
+i<UIKit/UIKit.h>
+i"CVE.h"
+i"CVEReference.h"
+i"exportCVEViewController.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.m
+c000000004C9BB6E5000000000000294A
+t1285273317
+s10570
+i"CVEDetailsViewControllerIpad.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.xib
+c000000004C9BB6730000000000006304
+t1285273203
+s25348
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitCornersView.h
+c000000004C9A3FEF0000000000000445
+t1285177327
+s1093
+i<UIKit/UIKit.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitCornersView.m
+c000000004C9A3FEF0000000000001768
+t1285177327
+s5992
+i"MGSplitCornersView.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitDividerView.h
+c000000004C9A3FEF00000000000001E4
+t1285177327
+s484
+i<UIKit/UIKit.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitDividerView.m
+c000000004C9A3FEF000000000000148B
+t1285177327
+s5259
+i"MGSplitDividerView.h"
+i"MGSplitViewController.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitViewController.h
+c000000004C9A3FEF0000000000001CD3
+t1285177327
+s7379
+i<UIKit/UIKit.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitViewController.m
+c000000004C9A3FEF000000000000801B
+t1285177327
+s32795
+i"MGSplitViewController.h"
+i"MGSplitDividerView.h"
+i"MGSplitCornersView.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MainWindow_iPad.xib
+c000000004C9A3FEF000000000000420B
+t1285177327
+s16907
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsCellIpad.xib
+c000000004C9A9C780000000000006659
+t1285201016
+s26201
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.h
+c000000004C9B95D800000000000006B0
+t1285264856
+s1712
+i<UIKit/UIKit.h>
+i"MBProgressHUD.h"
+i"CVE.h"
+i"CVEReference.h"
+i"CVEDetailsViewControllerIpad.h"
+i"TBXML.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m
+c000000004C9B95F800000000000036EA
+t1285264888
+s14058
+i"searchResultsViewController.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.xib
+c000000004C9B95FF000000000000722E
+t1285264895
+s29230
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/../iPad/searchResultsCellIpad.xib
+c000000004C9A8D670000000000006659
+t1285197159
+s26201
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/AppDelegate_iPhone.h
+c000000004C9A3FEF000000000000016B
+t1285177327
+s363
+i<UIKit/UIKit.h>
+i"searchViewControlleriPhone.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/AppDelegate_iPhone.m
+c000000004C9A3FEF0000000000000AF1
+t1285177327
+s2801
+i"AppDelegate_iPhone.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.h
+c000000004C9A3FEF0000000000000382
+t1285177327
+s898
+i<UIKit/UIKit.h>
+i"CVE.h"
+i"CVEReference.h"
+i"exportCVEViewController.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m
+c000000004C9B731B000000000000231E
+t1285255963
+s8990
+i"CVEDetailsViewController.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.xib
+c000000004C9A3FEF0000000000006871
+t1285177327
+s26737
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/MainWindow_iPhone.xib
+c000000004C9A3FEF000000000000390E
+t1285177327
+s14606
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/descriptionTableCell.xib
+c000000004C9A901D0000000000005727
+t1285197853
+s22311
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController-ipad.xib
+c000000004C9BB95F000000000000595C
+t1285273951
+s22876
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.h
+c000000004C9A3FEF00000000000002C4
+t1285177327
+s708
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i"tweetCVEViewController.h"
+i"CVE.h"
+i"CVEReference.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.m
+c000000004C9BB7880000000000000E15
+t1285273480
+s3605
+i"exportCVEViewController.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.xib
+c000000004C9A3FEF0000000000005978
+t1285177327
+s22904
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchResultsCell.xib
+c000000004C9A3FEF0000000000006597
+t1285177327
+s26007
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchTableFooter.xib
+c000000004C9A3FEF0000000000005EC8
+t1285177327
+s24264
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.h
+c000000004C9BCCB20000000000000A26
+t1285278898
+s2598
+i<UIKit/UIKit.h>
+i"MBProgressHUD.h"
+i"iAd/ADBannerView.h"
+i"CVEDetailsViewController.h"
+i"CVE.h"
+i"CVEReference.h"
+i"TBXML.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m
+c000000004C9BCCE500000000000049F7
+t1285278949
+s18935
+i"searchViewControlleriPhone.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.xib
+c000000004C9BCD2400000000000088B8
+t1285279012
+s35000
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.h
+c000000004C9BB7FA00000000000004A6
+t1285273594
+s1190
+i<UIKit/UIKit.h>
+i"CVE.h"
+i"CVEReference.h"
+i"SA_OAuthTwitterEngine.h"
+i"SA_OAuthTwitterController.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.m
+c000000004C9BC37D000000000000197D
+t1285276541
+s6525
+i"tweetCVEViewController.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.xib
+c000000004C9BB8500000000000007643
+t1285273680
+s30275
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iVulnerable_Prefix.pch
+c000000004C9A3FEF00000000000000BF
+t1285177327
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/parseXML.h
+c000000004C9A3FEF00000000000000D5
+t1285177327
+s213
+i<Foundation/Foundation.h>
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/parseXML.m
+c000000004C9A3FEF00000000000000BB
+t1285177327
+s187
+i"parseXML.h"
+
+N/Users/shawn/Documents/Source/packages/iVulnerable/trunk/refresh.png
+c000000004C9A3FEF0000000000000F32
+t1285177327
+s3890
+
+N/usr/lib/libxml2.dylib
+c000000004AB82E0E00000000003958C0
+t1253584398
+s3758272
+
+N/var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch.gch
+t2
+s0
+
+NiVulnerable-Info.plist
+c000000004C9A3FEF0000000000000614
+t1285177327
+s1556
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306981596#306981597#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/AppDelegate_iPad.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306966485.567223
+e306966485.677444
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/AppDelegate_iPad.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/AppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/AppDelegate_iPad.m306966485#306966485#0(0"0(0#0#80"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/AppDelegate_iPad.m8622751776#2327"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/AppDelegate_iPad.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/AppDelegate_iPad.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306971819.794475
+e306971819.928157
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/AppDelegate_iPhone.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/AppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/AppDelegate_iPhone.m306971819#306971819#0(0"0(0#0#84"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/AppDelegate_iPhone.m8620952032#2333"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/AppDelegate_iPhone.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/AppDelegate_iPhone.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVE.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVE.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889612.029207
+e306889612.091540
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVE.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVE.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVE.m306889612#306889612#0(0"0(0#0#62"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVE.m8607212704#2296"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVE.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVE.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEDetailsViewController.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306966485.677541
+e306966485.811620
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEDetailsViewController.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m: In function '-[CVEDetailsViewController GetSizeOfText:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m:188: warning: 'UIFont' may not respond to '-constrainedToSize:'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m:188: warning: (Messages without a matching method signature
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m:188: warning: will be assumed to return 'id' and accept
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m:188: warning: '...' as arguments.)
+lSLF07#2@98"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m306966485#306966485#0(729"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m: In function '-[CVEDetailsViewController GetSizeOfText:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m:188: warning: 'UIFont' may not respond to '-constrainedToSize:'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m:188: warning: (Messages without a matching method signature/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m:188: warning: will be assumed to return 'id' and accept/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m:188: warning: '...' as arguments.)2(22@49"'UIFont' may not respond to '-constrainedToSize:'306966485#150#155#0(6@90"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m306948763#188#0#188#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306966485#305#151#0(6@90"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m306948763#188#0#188#0#0"0(0#0#90"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m8620271840#2345"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEDetailsViewController.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEDetailsViewControllerIpad.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306966486.033412
+e306966486.143897
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEDetailsViewControllerIpad.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.m306966486#306966486#0(0"0(0#0#92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.m8618975104#2351"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEDetailsViewControllerIpad.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEReference.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVEReference.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889612.091636
+e306889612.171143
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEReference.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVEReference.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVEReference.m306889612#306889612#0(0"0(0#0#71"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVEReference.m8606389856#2314"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/CVEReference.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/CVEReference.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MBProgressHUD.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/MBProgressHUD.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889612.486939
+e306889612.821767
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MBProgressHUD.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/MBProgressHUD.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/MBProgressHUD.m306889612#306889612#0(0"0(0#0#72"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/MBProgressHUD.m7811904093196479488#2316"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/MBProgressHUD.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MBProgressHUD.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitCornersView.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitCornersView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.990564
+e306889614.102356
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitCornersView.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitCornersView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitCornersView.m306889613#306889614#0(0"0(0#0#82"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitCornersView.m8607126112#2331"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitCornersView.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitCornersView.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitDividerView.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitDividerView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.876108
+e306889613.990470
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitDividerView.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitDividerView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitDividerView.m306889613#306889613#0(0"0(0#0#82"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitDividerView.m8601845056#2331"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitDividerView.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitDividerView.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitViewController.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.809357
+e306889614.172727
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitViewController.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitViewController.m306889613#306889614#0(0"0(0#0#85"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitViewController.m8604022688#2337"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MGSplitViewController.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGSplitViewController.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterEngine.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889612.686215
+e306889612.941453
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterEngine.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m306889612#306889612#0(0"0(0#0#104"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m8607755616#2350"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterEngine.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889612.821861
+e306889612.891467
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m306889612#306889612#0(0"0(0#0#115"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m8606189792#2372"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterLibXMLParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889612.891565
+e306889613.090074
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterLibXMLParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m306889612#306889613#0(0"0(0#0#110"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m8606319808#2362"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterLibXMLParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889612.941628
+e306889613.056453
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m306889612#306889613#0(0"0(0#0#118"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m8604540672#2378"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMessagesParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.056679
+e306889613.144129
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMessagesParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m: In function '-[MGTwitterMessagesParser parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: (Messages without a matching method signature
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: will be assumed to return 'id' and accept
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: '...' as arguments.)
+lSLF07#2@120"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m306889613#306889613#0(915"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m: In function '-[MGTwitterMessagesParser parser:didEndElement:namespaceURI:qualifiedName:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: (Messages without a matching method signature/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: will be assumed to return 'id' and accept/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: '...' as arguments.)2(22@96"'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'306889613#205#223#0(6@112"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m306870127#45#0#45#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306889613#428#172#0(6@112"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m306870127#45#0#45#0#0"0(0#0#112"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m8609068032#2366"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMessagesParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.090195
+e306889613.254047
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m306889613#306889613#0(0"0(0#0#114"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m8607158496#2370"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMiscParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.144226
+e306889613.219190
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMiscParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m: In function '-[MGTwitterMiscParser parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: (Messages without a matching method signature
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: will be assumed to return 'id' and accept
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: '...' as arguments.)
+lSLF07#2@116"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m306889613#306889613#0(891"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m: In function '-[MGTwitterMiscParser parser:didEndElement:namespaceURI:qualifiedName:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: (Messages without a matching method signature/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: will be assumed to return 'id' and accept/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: '...' as arguments.)2(22@96"'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'306889613#197#219#0(6@108"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m306870127#39#0#39#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306889613#416#168#0(6@108"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m306870127#39#0#39#0#0"0(0#0#108"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m8606570464#2358"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterMiscParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.219270
+e306889613.361925
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m306889613#306889613#0(0"0(0#0#118"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m8605736832#2378"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterStatusesParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.254143
+e306889613.320944
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterStatusesParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m: In function '-[MGTwitterStatusesParser parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: 'MGTwitterXMLParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: (Messages without a matching method signature
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: will be assumed to return 'id' and accept
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: '...' as arguments.)
+lSLF07#2@120"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m306889613#306889613#0(910"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m: In function '-[MGTwitterStatusesParser parser:didEndElement:namespaceURI:qualifiedName:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: 'MGTwitterXMLParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: (Messages without a matching method signature/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: will be assumed to return 'id' and accept/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: '...' as arguments.)2(22@91"'MGTwitterXMLParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'306889613#205#218#0(6@112"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m306870127#55#0#55#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306889613#423#172#0(6@112"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m306870127#55#0#55#0#0"0(0#0#112"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m8603722528#2366"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterStatusesParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.321050
+e306889613.458913
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m306889613#306889613#0(0"0(0#0#115"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m8607380512#2372"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterUsersParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.362010
+e306889613.438997
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterUsersParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m: In function '-[MGTwitterUsersParser parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: (Messages without a matching method signature
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: will be assumed to return 'id' and accept
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: '...' as arguments.)
+lSLF07#2@117"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m306889613#306889613#0(897"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m: In function '-[MGTwitterUsersParser parser:didEndElement:namespaceURI:qualifiedName:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: (Messages without a matching method signature/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: will be assumed to return 'id' and accept/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: '...' as arguments.)2(22@96"'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'306889613#199#220#0(6@109"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m306870127#45#0#45#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306889613#419#169#0(6@109"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m306870127#45#0#45#0#0"0(0#0#109"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m8606691968#2360"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterUsersParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterXMLParser.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.439099
+e306889613.569387
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterXMLParser.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m: In function '-[MGTwitterXMLParser initWithXML:delegate:connectionIdentifier:requestType:responseType:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m:45: warning: class 'MGTwitterXMLParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@115"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m306889613#306889613#0(416"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m: In function '-[MGTwitterXMLParser initWithXML:delegate:connectionIdentifier:requestType:responseType:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m:45: warning: class 'MGTwitterXMLParser' does not implement the 'NSXMLParserDelegate' protocol1(22@80"Class 'MGTwitterXMLParser' does not implement the 'NSXMLParserDelegate' protocol306889613#214#202#0(6@107"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m306870127#45#0#45#0#45"class '*' does not implement the '*' protocol0(0#0#107"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m8606120288#2356"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/MGTwitterXMLParser.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSData+Base64.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.459010
+e306889613.541938
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSData+Base64.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m306889613#306889613#0(0"0(0#0#102"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m8605859168#2346"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSData+Base64.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSDataAdditions.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/NSDataAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889612.155043
+e306889612.252382
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSDataAdditions.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/NSDataAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/NSDataAdditions.m306889612#306889612#0(0"0(0#0#80"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/NSDataAdditions.m8604577120#2326"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/NSDataAdditions.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSDataAdditions.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSString+UUID.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.542036
+e306889613.615565
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSString+UUID.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m306889613#306889613#0(0"0(0#0#102"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m8600934176#2346"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/NSString+UUID.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/SA_OAuthTwitterController.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.569485
+e306889613.809269
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/SA_OAuthTwitterController.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m306889613#306889613#0(0"0(0#0#119"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m8607347616#2375"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/SA_OAuthTwitterController.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/SA_OAuthTwitterEngine.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889613.615661
+e306889613.747249
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/SA_OAuthTwitterEngine.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m306889613#306889613#0(0"0(0#0#115"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m8606452736#2367"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/SA_OAuthTwitterEngine.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/TBXML.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889612.171236
+e306889612.342975
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/TBXML.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m: In function '-[TBXML initWithXMLFile:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m:139: warning: unused variable 'extension'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m:138: warning: unused variable 'filename'
+lSLF07#2@78"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m306889612#306889612#0(338"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m: In function '-[TBXML initWithXMLFile:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m:139: warning: unused variable 'extension'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m:138: warning: unused variable 'filename'2(22@27"Unused variable 'extension'306889612#113#113#0(6@70"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m306870127#139#0#139#0#19"unused variable '*'0(22@26"Unused variable 'filename'306889612#226#112#0(6@70"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m306870127#138#0#138#0#19"unused variable '*'0(0#0#70"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m8604308288#2306"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/TBXML/TBXML.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/TBXML.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/exportCVEViewController.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306966485.811801
+e306966485.916453
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/exportCVEViewController.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.m306966485#306966485#0(0"0(0#0#89"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.m8616705280#2343"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/exportCVEViewController.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/main.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889611.730811
+e306889612.001688
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/main.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Shared/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Shared/main.m306889611#306889612#0(0"0(0#0#70"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Shared/main.m8606631488#2305"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/Shared/main.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/parseXML.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/parseXML.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306889614.172815
+e306889614.227417
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/parseXML.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/parseXML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/parseXML.m306889614#306889614#0(0"0(0#0#67"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/parseXML.m8606032224#2306"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/parseXML.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/parseXML.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/searchResultsViewController.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306966485.917115
+e306966486.070394
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/searchResultsViewController.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController searchBarCancelButtonClicked:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:102: warning: 'searchResultsViewController' may not respond to '-fetchResults'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:102: warning: (Messages without a matching method signature
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:102: warning: will be assumed to return 'id' and accept
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:102: warning: '...' as arguments.)
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController searchBarSearchButtonClicked:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:121: warning: 'searchResultsViewController' may not respond to '-fetchResults'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController updateHUDLabel:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:140: warning: implicit declaration of function 'usleep'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController CVE2CoreData]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:184: warning: unused variable 'error'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:172: warning: unused variable 'LOOP_LIMIT'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController tableView:viewForFooterInSection:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:351: warning: unused variable 'errorAlert'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController connection:didReceiveResponse:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:369: warning: 'NSData' may not respond to '-setLength:'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController connection:didReceiveData:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:379: warning: 'NSData' may not respond to '-appendData:'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: At top level:
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:453: warning: incomplete implementation of class 'searchResultsViewController'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:453: warning: method definition for '-CVE2CoreData:' not found
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:453: warning: method definition for '-doSearch:' not found
+lSLF07#2@99"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306966485#306966486#0(3352"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController searchBarCancelButtonClicked:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:102: warning: 'searchResultsViewController' may not respond to '-fetchResults'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:102: warning: (Messages without a matching method signature/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:102: warning: will be assumed to return 'id' and accept/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:102: warning: '...' as arguments.)/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController searchBarSearchButtonClicked:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:121: warning: 'searchResultsViewController' may not respond to '-fetchResults'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController updateHUDLabel:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:140: warning: implicit declaration of function 'usleep'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController CVE2CoreData]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:184: warning: unused variable 'error'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:172: warning: unused variable 'LOOP_LIMIT'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController tableView:viewForFooterInSection:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:351: warning: unused variable 'errorAlert'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController connection:didReceiveResponse:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:369: warning: 'NSData' may not respond to '-setLength:'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: In function '-[searchResultsViewController connection:didReceiveData:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:379: warning: 'NSData' may not respond to '-appendData:'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m: At top level:/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:453: warning: incomplete implementation of class 'searchResultsViewController'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:453: warning: method definition for '-CVE2CoreData:' not found/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m:453: warning: method definition for '-doSearch:' not found13(22@64"'searchResultsViewController' may not respond to '-fetchResults'306966485#169#171#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#102#0#102#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306966485#340#152#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#102#0#102#0#0"0(22@64"'searchResultsViewController' may not respond to '-fetchResults'306966485#936#171#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#121#0#121#0#26"'*' may not respond to '*'0(22@41"Implicit declaration of function 'usleep'306966485#1262#148#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#140#0#140#0#36"implicit declaration of function '*'0(22@23"Unused variable 'error'306966485#1562#130#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#184#0#184#0#19"unused variable '*'0(22@28"Unused variable 'LOOP_LIMIT'306966485#1692#135#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#172#0#172#0#19"unused variable '*'0(22@28"Unused variable 'errorAlert'306966485#2000#135#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#351#0#351#0#19"unused variable '*'0(22@41"'NSData' may not respond to '-setLength:'306966485#2305#148#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#369#0#369#0#26"'*' may not respond to '*'0(22@42"'NSData' may not respond to '-appendData:'306966485#2619#149#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#379#0#379#0#26"'*' may not respond to '*'0(23@13"At top level:306966486#2768#107#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#0#0#0#0#0"0(22@64"Incomplete implementation of class 'searchResultsViewController'306966486#2875#171#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#453#0#453#0#38"incomplete implementation of class '*'0(22@48"Method definition for '-CVE2CoreData:' not found306966486#3046#155#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#453#0#453#0#35"method definition for '*' not found0(22@44"Method definition for '-doSearch:' not found306966486#3201#151#0(6@91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m306957688#453#0#453#0#35"method definition for '*' not found0(0#0#91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m8621233472#2349"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/searchResultsViewController.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/searchViewControlleriPhone.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306971819.795785
+e306971820.103364
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/searchViewControlleriPhone.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone viewDidLoad]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:63: warning: 'searchViewControlleriPhone' may not respond to '-fetchResults'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:63: warning: (Messages without a matching method signature
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:63: warning: will be assumed to return 'id' and accept
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:63: warning: '...' as arguments.)
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone connection:didReceiveResponse:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:117: warning: 'NSData' may not respond to '-setLength:'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone connection:didReceiveData:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:127: warning: 'NSData' may not respond to '-appendData:'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone searchBarCancelButtonClicked:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:188: warning: 'searchViewControlleriPhone' may not respond to '-fetchResults'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone searchBarSearchButtonClicked:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:207: warning: 'searchViewControlleriPhone' may not respond to '-fetchResults'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone updateHUDLabel:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:237: warning: implicit declaration of function 'usleep'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone CVE2CoreData]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:292: warning: unused variable 'error'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:280: warning: unused variable 'LOOP_LIMIT'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone tableView:viewForFooterInSection:]':
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:455: warning: unused variable 'errorAlert'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: At top level:
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: property 'downloadView' requires method '-downloadView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: property 'downloadView' requires the method 'setDownloadView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: incomplete implementation of class 'searchViewControlleriPhone'
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: method definition for '-CVE2CoreData:' not found
+o/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: method definition for '-doSearch:' not found
+lSLF07#2@100"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971819#306971820#0(4169"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone viewDidLoad]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:63: warning: 'searchViewControlleriPhone' may not respond to '-fetchResults'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:63: warning: (Messages without a matching method signature/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:63: warning: will be assumed to return 'id' and accept/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:63: warning: '...' as arguments.)/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone connection:didReceiveResponse:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:117: warning: 'NSData' may not respond to '-setLength:'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone connection:didReceiveData:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:127: warning: 'NSData' may not respond to '-appendData:'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone searchBarCancelButtonClicked:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:188: warning: 'searchViewControlleriPhone' may not respond to '-fetchResults'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone searchBarSearchButtonClicked:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:207: warning: 'searchViewControlleriPhone' may not respond to '-fetchResults'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone updateHUDLabel:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:237: warning: implicit declaration of function 'usleep'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone CVE2CoreData]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:292: warning: unused variable 'error'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:280: warning: unused variable 'LOOP_LIMIT'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: In function '-[searchViewControlleriPhone tableView:viewForFooterInSection:]':/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:455: warning: unused variable 'errorAlert'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m: At top level:/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: property 'downloadView' requires method '-downloadView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: property 'downloadView' requires the method 'setDownloadView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: incomplete implementation of class 'searchViewControlleriPhone'/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: method definition for '-CVE2CoreData:' not found/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m:593: warning: method definition for '-doSearch:' not found16(22@63"'searchViewControlleriPhone' may not respond to '-fetchResults'306971819#151#170#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#63#0#63#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306971819#321#152#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#63#0#63#0#0"0(22@41"'NSData' may not respond to '-setLength:'306971819#918#149#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#117#0#117#0#26"'*' may not respond to '*'0(22@42"'NSData' may not respond to '-appendData:'306971819#1233#150#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#127#0#127#0#26"'*' may not respond to '*'0(22@63"'searchViewControlleriPhone' may not respond to '-fetchResults'306971819#1552#171#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#188#0#188#0#26"'*' may not respond to '*'0(22@63"'searchViewControlleriPhone' may not respond to '-fetchResults'306971819#1892#171#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#207#0#207#0#26"'*' may not respond to '*'0(22@41"Implicit declaration of function 'usleep'306971819#2218#149#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#237#0#237#0#36"implicit declaration of function '*'0(22@23"Unused variable 'error'306971819#2519#131#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#292#0#292#0#19"unused variable '*'0(22@28"Unused variable 'LOOP_LIMIT'306971819#2650#136#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#280#0#280#0#19"unused variable '*'0(22@28"Unused variable 'errorAlert'306971820#2959#136#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#455#0#455#0#19"unused variable '*'0(23@13"At top level:306971820#3095#108#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#0#0#0#0#0"0(22@132"Property 'downloadView' requires method '-downloadView' to be defined - use @synthesize, @dynamic or provide a method implementation306971820#3203#240#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#593#0#593#0#0"0(22@139"Property 'downloadView' requires the method 'setDownloadView:' to be defined - use @synthesize, @dynamic or provide a method implementation306971820#3443#247#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#593#0#593#0#0"0(22@63"Incomplete implementation of class 'searchViewControlleriPhone'306971820#3690#171#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#593#0#593#0#38"incomplete implementation of class '*'0(22@48"Method definition for '-CVE2CoreData:' not found306971820#3861#156#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#593#0#593#0#35"method definition for '*' not found0(22@44"Method definition for '-doSearch:' not found306971820#4017#152#0(6@92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m306971749#593#0#593#0#35"method definition for '*' not found0(0#0#92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m8620009408#2349"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/searchViewControlleriPhone.o0#
+
+CCompileC build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/tweetCVEViewController.o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306969343.879367
+e306969344.046225
+r1
+xCompileC
+xbuild/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/tweetCVEViewController.o
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.m306969343#306969344#0(0"0(0#0#88"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.m8621254112#2341"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-generated-files.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-own-target-headers.hmap -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-all-target-headers.hmap -iquote /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/iVulnerable-project-headers.hmap -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources/i386 -I/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/DerivedSources -include /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.m -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/tweetCVEViewController.o0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.xib
+s306966007.749973
+e306966008.134044
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.xib
+lSLF07#2@48"CompileXIB iPad/CVEDetailsViewControllerIpad.xib306966007#306966008#0(0"0(0#0#94"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.xib8603983040#669"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/CVEDetailsViewControllerIpad.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/CVEDetailsViewControllerIpad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MainWindow_iPad.xib
+s306889608.353841
+e306889608.835005
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib306889608#306889608#0(0"0(0#0#81"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MainWindow_iPad.xib8607106400#643"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/MainWindow_iPad.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/MainWindow_iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsCellIpad.xib
+s306893819.831241
+e306893820.216830
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsCellIpad.xib
+lSLF07#2@41"CompileXIB iPad/searchResultsCellIpad.xib306893819#306893820#0(0"0(0#0#87"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsCellIpad.xib8603870048#655"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchResultsCellIpad.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsCellIpad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.xib
+s306957698.931915
+e306957699.373100
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.xib
+lSLF07#2@47"CompileXIB iPad/searchResultsViewController.xib306957698#306957699#0(0"0(0#0#93"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.xib8620078240#667"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchResultsViewController.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPad/searchResultsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/../iPad/searchResultsCellIpad.xib
+r0
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.xib
+s306889609.327697
+e306889609.893776
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.xib
+lSLF07#2@46"CompileXIB iPhone/CVEDetailsViewController.xib306889609#306889609#0(0"0(0#0#92"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.xib8606120608#663"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/CVEDetailsViewController.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/CVEDetailsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/MainWindow_iPhone.xib
+s306889608.340944
+e306889608.837678
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib306889608#306889608#0(0"0(0#0#85"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/MainWindow_iPhone.xib8607238240#649"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/MainWindow_iPhone.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/MainWindow_iPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/descriptionTableCell.xib
+s306890760.473613
+e306890760.885291
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/descriptionTableCell.xib
+lSLF07#2@42"CompileXIB iPhone/descriptionTableCell.xib306890760#306890760#0(0"0(0#0#88"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/descriptionTableCell.xib8603928352#655"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/descriptionTableCell.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/descriptionTableCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController-ipad.xib
+s306966768.178242
+e306966768.560104
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController-ipad.xib
+lSLF07#2@50"CompileXIB iPhone/exportCVEViewController-ipad.xib306966768#306966768#0(0"0(0#0#96"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController-ipad.xib8620117568#671"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/exportCVEViewController-ipad.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController-ipad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.xib
+s306889609.995883
+e306889610.476698
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.xib
+lSLF07#2@45"CompileXIB iPhone/exportCVEViewController.xib306889609#306889610#0(0"0(0#0#91"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.xib8605884352#661"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/exportCVEViewController.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/exportCVEViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchResultsCell.xib
+s306889608.835729
+e306889609.327607
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchResultsCell.xib
+lSLF07#2@39"CompileXIB iPhone/searchResultsCell.xib306889608#306889609#0(0"0(0#0#85"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchResultsCell.xib8607716224#649"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchResultsCell.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchResultsCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchTableFooter.xib
+s306889609.521466
+e306889609.995802
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchTableFooter.xib
+lSLF07#2@39"CompileXIB iPhone/searchTableFooter.xib306889609#306889609#0(0"0(0#0#85"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchTableFooter.xib8602328704#649"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchTableFooter.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchTableFooter.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.xib
+s306971819.319454
+e306971819.794176
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.xib
+lSLF07#2@48"CompileXIB iPhone/searchViewControlleriPhone.xib306971819#306971819#0(0"0(0#0#94"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.xib8626945184#667"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/searchViewControlleriPhone.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/searchViewControlleriPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.xib
+s306966485.100351
+e306966485.565848
+r1
+xCompileXIB
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.xib
+lSLF07#2@44"CompileXIB iPhone/tweetCVEViewController.xib306966485#306966485#0(0"0(0#0#90"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.xib8615288320#659"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/tweetCVEViewController.nib /Users/shawn/Documents/Source/packages/iVulnerable/trunk/iPhone/tweetCVEViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iVulnerable.app/refresh.png refresh.png
+s306889608.835086
+e306889608.858330
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iVulnerable.app/refresh.png
+xrefresh.png
+lSLF07#2@16"Copy refresh.png306889608#306889608#0(0"0(0#0#68"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/refresh.png8605796224#513"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/shawn/Documents/Source/packages/iVulnerable/trunk/refresh.png /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app0#
+
+CGenerateDSYMFile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app.dSYM /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/iVulnerable
+s306971820.385701
+e306971820.510488
+r1
+xGenerateDSYMFile
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app.dSYM
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/iVulnerable
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/iVulnerable.app.dSYM build/Debug-iphonesimulator/iVulnerable.app/iVulnerable306971820#306971820#0(0"0(0#0#112"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/iVulnerable8629015264#449"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/iVulnerable -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app.dSYM0#
+
+CLd /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/iVulnerable normal i386
+s306971820.103555
+e306971820.385610
+r1
+xLd
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/iVulnerable
+xnormal
+xi386
+lSLF07#2@117"Link /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/iVulnerable306971820#306971820#0(0"0(0#0#0"8628346976#1179"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -L/Users/shawn/Documents/Source/packages/iVulnerable/trunk/Twitter+OAuth/SAOAuthTwitterEngine -F/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator -filelist /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/iVulnerable.build/Debug-iphonesimulator/iVulnerable.build/Objects-normal/i386/iVulnerable.LinkFileList -mmacosx-version-min=10.6 -weak_framework iAd -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework iAd -lz -lxml2 -lOAuth -framework MessageUI -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/iVulnerable0#
+
+CProcessInfoPlistFile /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/Info.plist iVulnerable-Info.plist
+s306889608.310856
+e306889608.340874
+r1
+xProcessInfoPlistFile
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/Info.plist
+xiVulnerable-Info.plist
+lSLF07#2@30"Process iVulnerable-Info.plist306889608#306889608#0(0"0(0#0#79"/Users/shawn/Documents/Source/packages/iVulnerable/trunk/iVulnerable-Info.plist24207298971762800#545"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iVulnerable-Info.plist -genpkginfo /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app/Info.plist0#
+
+CProcessPCH /var/folders/ED/EDvE4LN0E58TpXhbx-6Btk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iVulnerable_Prefix-fdurtpkmalfrnmgpxtlgvmwxtkbq/iVulnerable_Prefix.pch.gch iVulnerable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app
+s306971820.510570
+e306971820.513513
+r1
+xTouch
+x/Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app
+lSLF07#2@106"Touch /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app306971820#306971820#0(0"0(0#0#0"8627267296#318"    cd /Users/shawn/Documents/Source/packages/iVulnerable/trunk    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/shawn/Documents/Source/packages/iVulnerable/trunk/build/Debug-iphonesimulator/iVulnerable.app0#
+
