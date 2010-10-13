@@ -10,8 +10,9 @@
 
 #import "CVE.h"
 #import "CVEReference.h"
+#import "SHK.h"
 
-#import "exportCVEViewController.h"
+//#import "exportCVEViewController.h"
 
 @interface CVEDetailsViewControllerIpad : UIViewController<UITableViewDelegate,UIPopoverControllerDelegate> {
 

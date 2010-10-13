@@ -289,6 +289,7 @@
  */
 
 -(IBAction) exportCVE:(id) sender{
+	/*
 	if(popoverController.popoverVisible){
 		[self.popoverController dismissPopoverAnimated:YES];
 	}else{
@@ -309,6 +310,40 @@
 		
 		[self.popoverController presentPopoverFromBarButtonItem:sender permittedArrowDirections:UIPopoverArrowDirectionAny animated:YES];
 	}
+	*/
+	
+	NSString *mcafeeURLStringLookup=[NSString stringWithFormat:@"http://cve.mitre.org/cgi-bin/cvename.cgi?name=%@", cveObject.name];
+	
+	NSURL *url = [NSURL URLWithString:mcafeeURLStringLookup];
+	SHKItem *item = [SHKItem URL:url title:[NSString stringWithFormat:@"%@, %@...", cveObject.name, [cveObject.description substringToIndex:100]]];
+	
+	NSString *CVERichText=[NSString stringWithFormat:@"I thought you should see this:<BR><HR><STRONG>NAME:</STRONG> %@<BR><STRONG>Date:</STRONG>%@<BR><STRONG>Type:</STRONG>%@<br><STRONG>Description: </STRONG>%@<HR><BR><STRONG>References:</STRONG>", 
+						   cveObject.name,
+						   cveObject.cvedate,
+						   cveObject.type,
+						   cveObject.description];
+	
+	NSLog(@"Reference Count: %i", [self.cveObject.references count]);
+	
+	for (CVEReference *cveRef in self.cveObject.references){
+		if(cveRef.url){
+			CVERichText=[CVERichText stringByAppendingFormat:@"<BR><STRONG>Source:</STRONG> %@<BR><a href=\"%@\">%@</a><BR><HR>",
+						 cveRef.source, cveRef.url, cveRef.value];
+		}else{
+			CVERichText=[CVERichText stringByAppendingFormat:@"<BR><STRONG>Source:</STRONG> %@<BR>%@<BR><HR>",
+						 cveRef.source, cveRef.value];
+		}
+		
+	}
+	CVERichText=[CVERichText stringByAppendingFormat:@"</BODY></HTML>"];
+	
+	item.text=CVERichText;
+	
+	// Get the ShareKit action sheet
+	SHKActionSheet *actionSheet = [SHKActionSheet actionSheetForItem:item];
+	
+	// Display the action sheet
+	[actionSheet showFromBarButtonItem:self.exportCVEButton animated:YES];
 	
 
 	/*

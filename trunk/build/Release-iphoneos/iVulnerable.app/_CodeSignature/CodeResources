@@ -6,11 +6,11 @@
 	<dict>
 		<key>CVEDetailsViewController.nib</key>
 		<data>
-		cdv9IEDjIBKmdvR7o/EVhTPXh3M=
+		VmqH6Qbd/N86fjC6dUmt2++3cdE=
 		</data>
 		<key>CVEDetailsViewControllerIpad.nib</key>
 		<data>
-		CG5YPQVxs9xxlEkrjSeNv6skY7g=
+		1kn6G9n5Ev7/VpQns8LYe5YS80s=
 		</data>
 		<key>Default-Landscape.png</key>
 		<data>
@@ -28,6 +28,38 @@
 		<data>
 		vLrcx9TPxlN1EGW+g2aXrZj8L74=
 		</data>
+		<key>FBConnect.bundle/images/close.png</key>
+		<data>
+		M4sLIAMmRkHGBwOXHPbqxF3V3VY=
+		</data>
+		<key>FBConnect.bundle/images/fbicon.png</key>
+		<data>
+		O10PJ3vPkAdypNUGk3PgmTOlWLg=
+		</data>
+		<key>FBConnect.bundle/images/login.png</key>
+		<data>
+		2gK2bZhND8XZl3RLxysGXl1nA/E=
+		</data>
+		<key>FBConnect.bundle/images/login2.png</key>
+		<data>
+		GffVOyyM4YYuTm3Ad76zGxnE/rk=
+		</data>
+		<key>FBConnect.bundle/images/login2_down.png</key>
+		<data>
+		VQ8I75oqfQYVVml0Sr4U38NLbe8=
+		</data>
+		<key>FBConnect.bundle/images/login_down.png</key>
+		<data>
+		INNd5JcO1lHB+/IP1QsBM6Mvx8c=
+		</data>
+		<key>FBConnect.bundle/images/logout.png</key>
+		<data>
+		LtZxDmXQCJKFZphmolElc8Qelf8=
+		</data>
+		<key>FBConnect.bundle/images/logout_down.png</key>
+		<data>
+		kuthjCemH7aRTgPfzAohwqzLsUo=
+		</data>
 		<key>Icon-ipad.png</key>
 		<data>
 		SdIQ/6Byq+2YwNK/AnCix3Dxezo=
@@ -42,31 +74,27 @@
 		</data>
 		<key>MainWindow_iPad.nib</key>
 		<data>
-		AmLwoQiDhhWMW9i9IAJBo1329c8=
+		spvh1HsiX/2k5jLyC/EQdlW6BkM=
 		</data>
 		<key>MainWindow_iPhone.nib</key>
 		<data>
-		4xYFfj3vZzPRTz1L+zIVAEeOjWA=
+		hK6Py3hhdsm9FVsa2vW2EYFEeZM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>SHKSharers.plist</key>
+		<data>
+		eRIKET9/sJVXYfiYjaS3aplvcw0=
+		</data>
 		<key>descriptionTableCell.nib</key>
 		<data>
-		q7o/FQb7x8gSXH6VC7tDaH/5rM0=
+		P+1n/w9qVJgcJ/uSZLAlpSf+anw=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
 		ikpxmZc34iFJUbDBt8wHIpOEtWQ=
-		</data>
-		<key>exportCVEViewController-ipad.nib</key>
-		<data>
-		Y0WhYQ1GYW6aoaLJGaZaQkhZYJI=
-		</data>
-		<key>exportCVEViewController.nib</key>
-		<data>
-		UJA/Jfa8ul+H+jrvEXKLCsSyoOE=
 		</data>
 		<key>refresh.png</key>
 		<data>
@@ -74,27 +102,23 @@
 		</data>
 		<key>searchResultsCell.nib</key>
 		<data>
-		duJMoElpuY79Xi2x83s+XsS9eSA=
+		lbnDw1zTSiZbl9qDsHq+4C8bkY0=
 		</data>
 		<key>searchResultsCellIpad.nib</key>
 		<data>
-		9ioZDprJE+UAYdwJ6sb1qJob+HA=
+		W3zAnjvNjqgJ6xun/mE1GiGuqRw=
 		</data>
 		<key>searchResultsViewController.nib</key>
 		<data>
-		uFWJbNtipN9td+vXP8mmZPfz2HY=
+		SLNsfJ8mby8XIgUC/hwNS0ibM/A=
 		</data>
 		<key>searchTableFooter.nib</key>
 		<data>
-		7N4tq4+9U8/pXJw4BEuDjpN1PlE=
+		RUDtmFbQBF+b0q+hyyN3f1gOLf0=
 		</data>
 		<key>searchViewControlleriPhone.nib</key>
 		<data>
-		0GN8BWK2fQ/pNx23oQuSeQZNlVo=
-		</data>
-		<key>tweetCVEViewController.nib</key>
-		<data>
-		/vAQS1Hs/RdEtRx76mt8Dbqmbjw=
+		pXj9mXR2npKxo/rUrJIMATSvai4=
 		</data>
 	</dict>
 	<key>rules</key>

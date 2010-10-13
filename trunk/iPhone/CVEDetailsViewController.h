@@ -9,8 +9,9 @@
 #import <UIKit/UIKit.h>
 #import "CVE.h"
 #import "CVEReference.h"
+#import "SHK.h"
 
-#import "exportCVEViewController.h"
+//#import "exportCVEViewController.h"
 
 @interface CVEDetailsViewController : UIViewController <UITableViewDelegate> {
 
